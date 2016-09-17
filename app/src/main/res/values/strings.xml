@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">DietEat</string>
+    <string name="title_activity_week">Samanas del año</string>
+    <string name="title_activity_day_lunch">Comida de día</string>
 </resources>

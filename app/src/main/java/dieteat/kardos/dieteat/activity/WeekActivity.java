@@ -1,9 +1,12 @@
-package dieteat.kardos.dieteat;
+package dieteat.kardos.dieteat.activity;
 
+import android.app.Activity;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
-public class MainActivity extends AppCompatActivity {
+import dieteat.kardos.dieteat.R;
+
+public class WeekActivity extends Activity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
